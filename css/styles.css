@@ -1,1 +1,13 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #88c;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #aaffff;
+  border: 1px solid #000;
+}
 
